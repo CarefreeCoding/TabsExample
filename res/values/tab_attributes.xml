@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="TabButton">
+		<attr name="textAllCaps" format="boolean" />
+
+		<attr name="lineColor" format="color" />
+		<attr name="lineHeightUnselected" format="dimension" />
+		<attr name="lineHeightSelected" format="dimension" />
+		<attr name="tabControlButtonStyle" format="string" />
+	</declare-styleable>
+</resources>

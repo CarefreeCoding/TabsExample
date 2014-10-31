@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tabs Control</string>
+
+	<string name="top">Stuff on top</string>
+
+	<string name="one">One</string>
+	<string name="two">Two</string>
+	<string name="three">Three</string>
+
+	<string name="group_one">Group One</string>
+	<string name="group_two">Group Two</string>
+	<string name="group_three">Group Three</string>
+</resources>

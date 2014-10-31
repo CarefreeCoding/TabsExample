@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="tab_foreground">#b0b0b0</color>
+	<color name="tab_foreground_focused">#ffffff</color>
+
+	<color name="tab_bottom_line">#FF38c0f4</color>
+
+	<color name="tab_background_pressed">#8000B6E6</color>
+	<color name="tab_background_focused">#4000B6E6</color>
+</resources>

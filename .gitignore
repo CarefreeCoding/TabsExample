@@ -71,3 +71,18 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+
+
+
+
+
+#################
+## IDEA
+#################
+*.ipr
+*.iws
+.idea/
+out/production/
+.project
+.iml
